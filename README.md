@@ -8,7 +8,7 @@ The dashboard evaluates content performance across six major platforms: Instagra
 
 This project demonstrates how raw social media data can be transformed into actionable insights for digital marketing, content optimization, and strategic decision-making.
 
-🎯 Objectives of the Project
+### 🎯 Objectives of the Project
 
 The main objectives of the ContentXplorer Dashboard are:
 
@@ -24,7 +24,7 @@ To measure audience interaction efficiency using engagement rate.
 
 To support data-driven content strategy and marketing decisions.
 
-🗂 Database Design
+### Database Design
 
 The project follows a relational database structure consisting of three main tables:
 
@@ -92,7 +92,7 @@ CTR – Click-through rate
 
 TrendingScore – Score representing content popularity
 
-📈 Key Performance Metrics (KPIs)
+### 📈 Key Performance Metrics (KPIs)
 
 The dashboard calculates several important metrics to evaluate content performance:
 
@@ -123,7 +123,7 @@ Average Watch Time
 
 Average time viewers spend watching video content.
 
-📊 Dashboard Visualizations
+### 📊 Dashboard Visualizations
 
 The Power BI dashboard includes multiple interactive visualizations such as:
 
@@ -159,7 +159,7 @@ Matrix Analysis
 
 Category vs Post Type performance comparison
 
-🔎 Cross-Platform Comparison
+### 🔎 Cross-Platform Comparison
 
 A dedicated comparison dashboard allows users to analyze the performance of all six platforms in one view.
 
@@ -173,14 +173,16 @@ Which content category performs best overall?
 
 Which platform has the highest engagement efficiency?
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 Technology	Purpose
 SQL Server	Data storage and query processing
 SQL Queries	Data extraction and aggregation
 Power BI	Data visualization and dashboard creation
 DAX	Calculated measures and KPIs
 Excel / Dataset	Data preparation
-💡 Business Impact
+
+
+### 💡 Business Impact
 
 The ContentXplorer Dashboard provides valuable insights for:
 
@@ -202,7 +204,7 @@ Increase audience engagement
 
 Make data-driven decisions
 
-🚀 Key Features
+### 🚀 Key Features
 
 ✔ Multi-platform social media analytics
 ✔ Interactive Power BI dashboards
@@ -211,7 +213,7 @@ Make data-driven decisions
 ✔ Engagement efficiency metrics
 ✔ Cross-platform comparison dashboard
 
-📌 Future Enhancements
+### 📌 Future Enhancements
 
 Possible improvements for this project include:
 
